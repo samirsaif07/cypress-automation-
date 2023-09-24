@@ -1,0 +1,22 @@
+{
+  "name": "cypress-automation-",
+  "version": "1.0.0",
+  "description": "Cypress POM tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "cypress",
+    "frameworks",
+    "POM"
+  ],
+  "author": "Samir",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.2.0"
+  },
+  "dependencies": {
+    "cypress-downloadfile": "^1.2.3"
+  }
+}
